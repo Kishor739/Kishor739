@@ -95,7 +95,7 @@ A machine learning-based security system that authenticates users through voice 
 
 💼 LinkedIn: Add your LinkedIn profile link
 
-🌐 Portfolio: [Add your portfolio website link](https://fanciful-rabanadas-f05d17.netlify.app/)
+🌐 Portfolio: [My Portfolio](https://fanciful-rabanadas-f05d17.netlify.app/)
 
 ---
 
