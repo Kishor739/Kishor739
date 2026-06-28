@@ -126,7 +126,7 @@ A machine learning-based authentication system that verifies user identity using
 
 💼 LinkedIn: https://www.linkedin.com/in/kishor-tekale-034886285/
 
-🌐 Portfolio: https://fanciful-rabanadas-f05d17.netlify.app/
+🌐 Portfolio: [https://fanciful-rabanadas-f05d17.netlify.app/](https://app.netlify.com/teams/kishortekale739/projects)
 
 ---
 
