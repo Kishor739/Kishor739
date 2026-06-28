@@ -1,20 +1,22 @@
+```md
 # 👋 Hi, I'm Kishor Tekale
 
-## 🚀 AI/ML Engineer | Data Science Enthusiast
+## 🚀 AI/ML Engineer | Data Science Enthusiast | Web Developer
 
-Welcome to my GitHub profile!  
-I am an aspiring **AI/ML Engineer and Data Science enthusiast** passionate about building intelligent solutions using Machine Learning, Data Analysis, and Python.
+Welcome to my GitHub profile!
 
-I enjoy working on real-world problems involving **machine learning models, data preprocessing, feature engineering, and model evaluation**. :contentReference[oaicite:1]{index=1}
+I am an aspiring **AI/ML Engineer, Data Science enthusiast, and Web Developer** passionate about building intelligent and interactive solutions using **Machine Learning, Data Science, Python, and modern web technologies**.
+
+I enjoy working on real-world problems involving **machine learning models, data preprocessing, feature engineering, model evaluation**, and creating responsive websites using **HTML, CSS, and JavaScript**.
 
 ---
 
 ## 🎓 Education
 
-🎓 **Bachelor of Engineering (B.E)**  
-Prof. Ram Meghe Institute of Technology & Research, Amravati  
-📌 CGPA: 7.5  
-📅 2022 - 2026  
+🎓 **Bachelor of Engineering (B.E.)**  
+**Prof. Ram Meghe Institute of Technology & Research, Amravati**  
+📌 CGPA: **7.5**  
+📅 2022 – 2026
 
 ---
 
@@ -23,6 +25,13 @@ Prof. Ram Meghe Institute of Technology & Research, Amravati
 ### Programming Languages
 - Python
 - SQL
+- JavaScript
+
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
 
 ### Artificial Intelligence & Machine Learning
 - Machine Learning
@@ -39,8 +48,11 @@ Prof. Ram Meghe Institute of Technology & Research, Amravati
 - Seaborn
 - Scikit-learn
 
-### Tools
+### Tools & Platforms
 - Jupyter Notebook
+- Git
+- GitHub
+- VS Code
 
 ---
 
@@ -50,7 +62,7 @@ Prof. Ram Meghe Institute of Technology & Research, Amravati
 
 A machine learning-based security system that authenticates users through voice recognition.
 
-### Features:
+#### Features:
 - Collected and processed voice samples for ML training
 - Performed data preprocessing and feature extraction
 - Trained and tested machine learning models
@@ -65,18 +77,35 @@ A machine learning-based security system that authenticates users through voice 
 
 ---
 
+### 🌐 Portfolio Website
+
+Designed and developed a responsive personal portfolio website showcasing my skills, projects, and achievements.
+
+#### Features:
+- Responsive UI Design
+- Interactive Navigation
+- Project Showcase
+- Contact Information Section
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+
+---
+
 ## 📜 Certifications
 
 ☁️ **AWS Cloud Virtual Internship**  
-📅 July - September 2024
+📅 July – September 2024
 
 ---
 
 ## 📊 GitHub Stats
 
-![Kishor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Kishor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
@@ -85,6 +114,7 @@ A machine learning-based security system that authenticates users through voice 
 - Advanced Machine Learning Algorithms
 - Deep Learning
 - Artificial Intelligence Applications
+- Full-Stack Web Development
 - Data Science Projects
 
 ---
@@ -95,8 +125,9 @@ A machine learning-based security system that authenticates users through voice 
 
 💼 LinkedIn: Add your LinkedIn profile link
 
-🌐 Portfolio: [My Portfolio](https://fanciful-rabanadas-f05d17.netlify.app/)
+🌐 Portfolio: https://fanciful-rabanadas-f05d17.netlify.app/
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ *"Learning, building, and growing every day through AI, Machine Learning, and Web Development."*
+```
