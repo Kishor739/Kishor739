@@ -1,75 +1,58 @@
+```md
 # 👋 Hi, I'm Kishor Tekale
 
-<h3 align="center">🚀 AI/ML Engineer | Data Science Enthusiast | Web Developer</h3>
+## 🚀 AI/ML Engineer | Data Science Enthusiast | Web Developer
 
-<p align="center">
-Passionate about building intelligent solutions with Machine Learning and creating responsive web applications.
-</p>
+Welcome to my GitHub profile!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
-</p>
+I am an aspiring **AI/ML Engineer, Data Science enthusiast, and Web Developer** passionate about building intelligent and interactive solutions using **Machine Learning, Data Science, Python, and modern web technologies**.
 
----
-
-## 👨‍💻 About Me
-
-✨ Aspiring **AI/ML Engineer & Web Developer**
-📚 Currently learning **Deep Learning & Advanced ML**
-🌱 Exploring **Artificial Intelligence applications**
-💻 Building projects using **Python, HTML, CSS, JavaScript**
-🎯 Goal: Contribute to impactful AI and web-based solutions
+I enjoy working on real-world problems involving **machine learning models, data preprocessing, feature engineering, model evaluation**, and creating responsive websites using **HTML, CSS, and JavaScript**.
 
 ---
 
 ## 🎓 Education
 
-🎓 **Bachelor of Engineering (B.E.)**
-🏫 **Prof. Ram Meghe Institute of Technology & Research, Amravati**
-📌 **CGPA:** 7.5
+🎓 **Bachelor of Engineering (B.E.)**  
+**Prof. Ram Meghe Institute of Technology & Research, Amravati**  
+📌 **CGPA:** 7.5  
 📅 **2022 – 2026**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Skills
 
-### 💻 Programming Languages
+### Programming Languages
+- Python
+- SQL
+- JavaScript
 
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
 
-### 🌐 Web Development
+### Artificial Intelligence & Machine Learning
+- Machine Learning
+- Data Analysis
+- Model Building
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
 
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge"/>
-</p>
+### Libraries & Frameworks
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
-### 🤖 AI / Machine Learning
-
-* Machine Learning
-* Data Analysis
-* Data Preprocessing
-* Feature Engineering
-* Model Building
-* Model Evaluation
-
-### 📚 Libraries & Tools
-
-<p align="left">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-</p>
+### Tools & Platforms
+- Jupyter Notebook
+- Git
+- GitHub
+- VS Code
 
 ---
 
@@ -77,80 +60,76 @@ Passionate about building intelligent solutions with Machine Learning and creati
 
 ### 🎙️ Biometric Authentication System Using Voice Recognition
 
-🔹 Machine learning-based authentication system using voice recognition.
+A machine learning-based security system that authenticates users through voice recognition.
 
-**Features**
+### Features:
+- Collected and processed voice samples for ML training
+- Performed data preprocessing and feature extraction
+- Trained and tested machine learning models
+- Implemented voice-based user verification
+- Integrated ML model into application workflow
 
-* Voice sample collection & preprocessing
-* Feature extraction
-* Model training and testing
-* User verification system
-* ML integration into workflow
-
-**Tech Used:**
-`Python` `Machine Learning` `Voice Recognition`
+**Technologies Used:**
+- Python
+- Machine Learning
+- Data Processing
+- Voice Recognition
 
 ---
 
 ### 🌐 Portfolio Website
 
-🔹 Personal portfolio website designed with responsive UI.
+Designed and developed a responsive personal portfolio website showcasing my skills, projects, and achievements.
 
-**Features**
+### Features:
+- Responsive UI design
+- Interactive sections and navigation
+- Project showcase
+- Contact information section
 
-* Interactive navigation
-* Responsive design
-* Project showcase
-* Contact section
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
 
-**Tech Used:**
-`HTML` `CSS` `JavaScript`
-
-🌐 **Portfolio:** https://fanciful-rabanadas-f05d17.netlify.app/
+🌐 Portfolio: https://fanciful-rabanadas-f05d17.netlify.app/
 
 ---
 
 ## 📜 Certifications
 
-☁️ **AWS Cloud Virtual Internship**
+☁️ **AWS Cloud Virtual Internship**  
 📅 July – September 2024
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+![Kishor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 Currently Learning
 
-* Advanced Machine Learning Algorithms
-* Deep Learning
-* Full Stack Development
-* Artificial Intelligence Applications
-* Real-world Data Science Projects
+- Advanced Machine Learning Algorithms
+- Deep Learning
+- Artificial Intelligence Applications
+- Full-Stack Web Development
+- Data Science Projects
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [kishortekale739@gmail.com](mailto:kishortekale739@gmail.com)
+📧 Email: [kishortekale739@gmail.com](mailto:kishortekale739@gmail.com)
 
-💼 **LinkedIn:** Add your LinkedIn profile link
+💼 LinkedIn: Add your LinkedIn profile link
 
-🌐 **Portfolio:** https://fanciful-rabanadas-f05d17.netlify.app/
+🌐 Portfolio: https://fanciful-rabanadas-f05d17.netlify.app/
 
 ---
 
-<h3 align="center">
-⭐ Learning, building, and growing every day through AI, ML & Web Development.
-</h3>
+⭐ *"Learning, building, and growing every day through AI, Machine Learning, and Web Development."*
+```
