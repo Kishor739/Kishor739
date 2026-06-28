@@ -108,10 +108,6 @@ A machine learning-based authentication system that verifies user identity using
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
-
 ---
 
 ## 🔥 Currently Learning
@@ -128,7 +124,7 @@ A machine learning-based authentication system that verifies user identity using
 
 📧 Email: [kishortekale739@gmail.com](mailto:kishortekale739@gmail.com)
 
-💼 LinkedIn: [Add your LinkedIn profile link](https://www.linkedin.com/in/kishor-tekale-034886285/)
+💼 LinkedIn: https://www.linkedin.com/in/kishor-tekale-034886285/
 
 🌐 Portfolio: https://fanciful-rabanadas-f05d17.netlify.app/
 
